@@ -47,7 +47,7 @@ logo = """\033[1;93m๑۩۩๑
 \033[1;96m║\033[1;98m*\033[1;97mYOUTUBE  \033[1;93m: \033[1;92m\033mhttps://youtube.com/c/Chairil.SH\033[0m \033[1;96m ║
 \033[1;96m║\033[1;98m*\033[1;97mINSTAGRAM\033[1;93m: \033[1;92m\033m@ChairilSehati_21\033[0m \033[1;96m                ║
 \033[1;96m╚══════════════════════════════════════════════╝"""
-\033[1;93m⚠️ Buat Akun New Di OperaMini Agar Tidak Cp ⚠️
+\033[1;93m!! Buat Akun New Di OperaMini Agar Tidak Cp !!
 
 def tik():
     titik = [
