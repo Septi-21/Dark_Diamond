@@ -213,7 +213,7 @@ def pilih():
                         else:
                             if zedd == '6':
                                 os.system('rm -rf login.txt')
-				os.system('xdg-open https://www.facebook.com/profile.php?id=100009208620942')
+				os.system('xdg-open https://m.facebook.com/ChairilOfficialID')
                                 keluar()
                             else:
                                 if zedd == '0':
