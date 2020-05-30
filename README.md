@@ -6,7 +6,7 @@ $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/Septi-21/Dark_Diamond/blob/master/README.md
+$ git clone https://github.com/Septi-21/Dark_Diamond
 
 $ pip2 install requests
 
