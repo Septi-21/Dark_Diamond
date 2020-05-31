@@ -6,11 +6,11 @@ $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/Septi-21/Dark_Diamond
-
 $ pip2 install requests
 
 $ pip2 install mechanize
+
+$ git clone https://github.com/Septi-21/Dark_Diamond
 
 $ cd Dark_Diamond
 
