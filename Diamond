@@ -78,7 +78,7 @@ listgrup = []
 vulnot = '\x1b[31mNot Vuln'
 vuln = '\x1b[32mVuln'
 
-def loginSC():
+os.system("clear")
 
 CorrectUsername = "ANBIA01"
 CorrectPassword = "AMANDA01"
