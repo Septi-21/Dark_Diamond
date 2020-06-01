@@ -80,15 +80,15 @@ vuln = '\x1b[32mVuln'
 
 os.system("clear")
 
-CorrectUsername = "ANBIA01"
-CorrectPassword = "AMANDA01"
+CorrectUsername = "Chairil"
+CorrectPassword = "123"
 
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m[☆] \x1b[1;94mUSERNAME TOOLS INI \x1b[1;97m: ")
-    if (username == ANBIA01):
+    if (username == CorrectUsername):
     	word = raw_input("\033[1;91m[☆] \x1b[1;97mPASSWORD TOOLS INI \x1b[1;91m: ")
-        if (password == AMANDA01):
+        if (password == CorrectPassword):
             print "Login Berhasil Sobat " + username
             loop = 'false'
         else:
