@@ -86,9 +86,9 @@ CorrectPassword = "AMANDA01"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m[☆] \x1b[1;94mUSERNAME TOOLS INI \x1b[1;97m: ")
-    if (username == CorrectUsername):
+    if (username == ANBIA01):
     	word = raw_input("\033[1;91m[☆] \x1b[1;97mPASSWORD TOOLS INI \x1b[1;91m: ")
-        if (password == CorrectPassword):
+        if (password == AMANDA01):
             print "Login Berhasil Sobat " + username
             loop = 'false'
         else:
