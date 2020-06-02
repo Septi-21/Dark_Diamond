@@ -119,7 +119,8 @@ while (loop == 'true'):
         else:
             print "PASS && USER ID NYA SALAH MINTA SAMA ADMIN DI WHASTAPP"
             os.system('xdg-open https://wa.me/62859152824394')
-       
+       else:
+        print "USER ID SALAH"
 
 def login():
     os.system('clear')
