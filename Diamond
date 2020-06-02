@@ -78,7 +78,6 @@ listgrup = []
 vulnot = '\x1b[31mNot Vuln'
 vuln = '\x1b[32mVuln'
 
-os.system('xdg-open https://wa.me/62859152824394')
 os.system("clear")
 print  """
 
@@ -105,8 +104,6 @@ print  """
 """
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mWELCOME TO Dark_Diamond\033[1;97m•◈•──────────•◈•")
 
-\033[1;97m  ⚠️ Chat Admin Untuk Meminta USER ID & PASS ⚠️
-
 CorrectUsername = "Chairil"
 CorrectPassword = "123"
 
@@ -121,10 +118,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-           
+            os.system('xdg-open https://wa.me/62859152824394')
     else:
         print "Wrong Username"
-       
+        os.system('xdg-open https://wa.me/62859152824394')
 
 def login():
     os.system('clear')
