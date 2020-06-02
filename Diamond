@@ -117,11 +117,9 @@ while (loop == 'true'):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "Wrong Password"
+            print "PASS && USER ID NYA SALAH MINTA SAMA ADMIN DI WHASTAPP"
             os.system('xdg-open https://wa.me/62859152824394')
-    else:
-        print "Wrong Username"
-        os.system('xdg-open https://wa.me/62859152824394')
+       
 
 def login():
     os.system('clear')
