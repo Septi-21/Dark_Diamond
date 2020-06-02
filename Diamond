@@ -105,7 +105,7 @@ print  """
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mWELCOME TO Dark_Diamond\033[1;97m•◈•──────────•◈•")
 
 CorrectUsername = "Chairil"
-CorrectPassword = "123"
+CorrectPassword = "2106"
 
 
 loop = 'true'
@@ -117,11 +117,11 @@ while (loop == 'true'):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "Pass & User Id Salah Minta Ke Admin"
+            print "Pass Salah Minta Ke Admin Lewat WhastApp"
             os.system('xdg-open https://wa.me/62859152824394')
     else:
-        print "Username Salah"
-        
+        print "User Id Salah Minta Ke Admin Lewat WhastApp"
+        os.system('xdg-open https://wa.me/62859152824394')
 
 
 def login():
