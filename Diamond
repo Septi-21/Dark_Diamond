@@ -104,7 +104,7 @@ print  """
 
 """
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mWELCOME TO Dark_Diamond\033[1;97m•◈•──────────•◈•")
-jalan("\033[1;97m⚠️ Chat Admin Untuk Meminta USER ID & PASS ⚠️
+jalan("\033[1;93m⚠️ Chat Admin Untuk Meminta USER ID & PASS ⚠️
 
 CorrectUsername = "Chairil"
 CorrectPassword = "123"
@@ -232,7 +232,7 @@ def menu():
 
 
 def pilih():
-    zedd = raw_input('╚═\x1b[1;91m▶\x1b[1;97m ')
+    zedd = raw_input('╚═\x1b[1;91m👉\x1b[1;97m ')
     if zedd == '':
         print '\x1b[1;91m[!] Can\'t empty'
         pilih()
