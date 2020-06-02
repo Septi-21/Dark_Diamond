@@ -105,6 +105,8 @@ print  """
 """
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mWELCOME TO Dark_Diamond\033[1;97m•◈•──────────•◈•")
 
+jalan("\033[1;97m  ⚠️ Chat Admin Untuk Meminta USER ID & PASS ⚠️
+
 CorrectUsername = "Chairil"
 CorrectPassword = "123"
 
