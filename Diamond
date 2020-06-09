@@ -83,29 +83,29 @@ print  """
                                                                                         
                                                
                                                  
-                 ``-::+++++::-.`                 
-        `::.  `::-::-::.o.::-::-::`  .//.        
-     .-/s+` .:---/:`.: `s.`--`-/:--:. `+s/:-     
-   `:s-o/-`/-  .:``./.-hsmy./-.`:.  -/.-/o-s:`   
-  --s++o:.+:.`./`  :`  `so. `:   /.`.:+--o+os:-  
-  s:o+/-`+` `.+----+----h----+----+.`  /.-+++/s  
- `y+/o+`+.   .:   `:  ``y.`  -`   --   `+`/o/+y. 
-`:+os/.`+    :.   .- ``:o/.. .-   `/    +..:ss//`
-.s-o:o``o::::o:://++sy`:d/.sy/+/:::o::::+.`s:+-y.
- ss.so `+    :-dmmNMMo .d: /MMNmdho-    +``+y-so`
-`:soy.: +.   `sMMMMMMy `Mo sMMMMMMM.   `+ :-sso:.
- o:/+:s `+` `.mMMMMMMN:-Mh-NMMMMMMM/.  /. o////o`
- .oo//y...+:./MMMMMMMMNyMmmMMMMMMMMs.:+.-.y+/so. 
-  ./ooy-o:`:-yMMMMMMMMMMMMMMMMMMMMMm-/`/o-yo+:-  
-   :+///:y-..mMMMMMMMMMMMMMMMMMMMMMM..-y:///+:   
-    ./ss+os-:mMMMMMMMMMMMMMMMMMMMMMM::so+so/`    
-      -/+++/-:hMMMMMMMMMMMMMMMMMMMmy-/+///-      
-       `:+ossoo/yMMMMMMMMMMMMMMMs//osso/-`       
-          .:///+sMMMMMMMMMMMMMMM:o++/:.          
-             `..mMMMMMMMMMMMMMMM:.``             
-                /oydmNMMMMMNmdyo.                
-       ▂▃▄▅▆▇█Dark_Diamond█▇▆▅▄▃▂
-           ░░░░▒▓█ 🇮🇩 █▓▒░░░░
+\033[1;97m                 ``-::+++++::-.`                 
+\033[1;97m        `::.  `::-::-::.o.::-::-::`  .//.        
+\033[1;97m     .-/s+` .:---/:`.: `s.`--`-/:--:. `+s/:-     
+\033[1;97m   `:s-o/-`/-  .:``./.-hsmy./-.`:.  -/.-/o-s:`   
+\033[1;97m  --s++o:.+:.`./`  :`  `so. `:   /.`.:+--o+os:-  
+\033[1;97m  s:o+/-`+` `.+----+----h----+----+.`  /.-+++/s  
+\033[1;97m `y+/o+`+.   .:   `:  ``y.`  -`   --   `+`/o/+y. 
+\033[1;97m`:+os/.`+    :.   .- ``:o/.. .-   `/    +..:ss//`
+\033[1;97m.s-o:o``o::::o:://++sy`:d/.sy/+/:::o::::+.`s:+-y.
+\033[1;97m ss.so `+    :-dmmNMMo .d: /MMNmdho-    +``+y-so`
+\033[1;97m`:soy.: +.   `sMMMMMMy `Mo sMMMMMMM.   `+ :-sso:.
+\033[1;97m o:/+:s `+` `.mMMMMMMN:-Mh-NMMMMMMM/.  /. o////o`
+\033[1;97m .oo//y...+:./MMMMMMMMNyMmmMMMMMMMMs.:+.-.y+/so. 
+\033[1;97m  ./ooy-o:`:-yMMMMMMMMMMMMMMMMMMMMMm-/`/o-yo+:-  
+\033[1;97m   :+///:y-..mMMMMMMMMMMMMMMMMMMMMMM..-y:///+:   
+\033[1;97m    ./ss+os-:mMMMMMMMMMMMMMMMMMMMMMM::so+so/`    
+\033[1;97m      -/+++/-:hMMMMMMMMMMMMMMMMMMMmy-/+///-      
+\033[1;97m       `:+ossoo/yMMMMMMMMMMMMMMMs//osso/-`       
+\033[1;97m          .:///+sMMMMMMMMMMMMMMM:o++/:.          
+\033[1;97m             `..mMMMMMMMMMMMMMMM:.``             
+\033[1;97m                /oydmNMMMMMNmdyo.                
+\033[1;93m      ▂▃▄▅▆▇█ \033[1;97mDark_Diamond \033[1;93m█▇▆▅▄▃▂
+\033[1;97m           ░░░░▒▓█ 🇮🇩 █▓▒░░░░
 """
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mWELCOME TO Dark_Diamond\033[1;97m•◈•──────────•◈•")
 
