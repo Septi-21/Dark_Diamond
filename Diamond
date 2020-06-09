@@ -83,27 +83,27 @@ print  """
                                                                                         
                                                
                                                  
-\033[1;97m                 ``-::+++++::-.`                 
-\033[1;97m        `::.  `::-::-::.o.::-::-::`  .//.        
-\033[1;97m     .-/s+` .:---/:`.: `s.`--`-/:--:. `+s/:-     
-\033[1;97m   `:s-o/-`/-  .:``./.-hsmy./-.`:.  -/.-/o-s:`   
-\033[1;97m  --s++o:.+:.`./`  :`  `so. `:   /.`.:+--o+os:-  
-\033[1;97m  s:o+/-`+` `.+----+----h----+----+.`  /.-+++/s  
-\033[1;97m `y+/o+`+.   .:   `:  ``y.`  -`   --   `+`/o/+y. 
-\033[1;97m`:+os/.`+    :.   .- ``:o/.. .-   `/    +..:ss//`
-\033[1;97m.s-o:o``o::::o:://++sy`:d/.sy/+/:::o::::+.`s:+-y.
-\033[1;97m ss.so `+    :-\033[1;31mdmmNMMo .d: /MMNmdho-    +``+y-so`
-\033[1;97m`:soy.: +.   `\033[1;31msMMMMMMy `Mo sMMMMMMM.   `+ :-sso:.
-\033[1;97m o:/+:s `+` `.\033[1;31mmMMMMMMN:-Mh-NMMMMMMM/.  /. o////o`
-\033[1;97m .oo//y...+:.\033[1;31m/MMMMMMMMNyMmmMMMMMMMMs.:+.-.y+/so. 
-\033[1;97m  ./ooy-o:`:-\033[1;31myMMMMMMMMMMMMMMMMMMMMMm-/`/o-yo+:-  
-\033[1;97m   :+///:y-..\033[1;31mmMMMMMMMMMMMMMMMMMMMMMM..-y:///+:   
-\033[1;97m    ./ss+os-:\033[1;31mmMMMMMMMMMMMMMMMMMMMMMM::so+so/`    
-\033[1;97m      -/+++/-:\033[1;31mhMMMMMMMMMMMMMMMMMMMmy-/+///-      
-\033[1;97m       `:+ossoo/\033[1;31myMMMMMMMMMMMMMMMs//osso/-`       
-\033[1;97m          .:///+\033[1;31msMMMMMMMMMMMMMMM:o++/:.          
-\033[1;97m             `..\033[1;31mmMMMMMMMMMMMMMMM:.``             
-\033[1;97m                /\033[1;31moydmNMMMMMNmdyo.                
+\033[1;31m                 ``-::+++++::-.`                 
+\033[1;21m        `::.  `::-::-::.o.::-::-::`  .//.        
+\033[1;31m     .-/s+` .:---/:`.: `s.`--`-/:--:. `+s/:-     
+\033[1;31m   `:s-o/-`/-  .:``./.-hsmy./-.`:.  -/.-/o-s:`   
+\033[1;31m  --s++o:.+:.`./`  :`  `so. `:   /.`.:+--o+os:-  
+\033[1;31m  s:o+/-`+` `.+----+----h----+----+.`  /.-+++/s  
+\033[1;31m `y+/o+`+.   .:   `:  ``y.`  -`   --   `+`/o/+y. 
+\033[1;31m`:+os/.`+    :.   .- ``:o/.. .-   `/    +..:ss//`
+\033[1;31m.s-o:o``o::::o:://++sy`:d/.sy/+/:::o::::+.`s:+-y.
+\033[1;31m ss.so `+    :-\033[1;97mdmmNMMo .d: /MMNmdho\033[1;31m-    +``+y-so`
+\033[1;31m`:soy.: +.   `\033[1;97msMMMMMMy `Mo sMMMMMMM\033[1;31m.   `+ :-sso:.
+\033[1;31m o:/+:s `+` `.\033[1;97mmMMMMMMN:-Mh-NMMMMMMM\033[1;31m/.  /. o////o`
+\033[1;31m .oo//y...+:.\033[1;97m/MMMMMMMMNyMmmMMMMMMMMs\033[1;31m.:+.-.y+/so. 
+\033[1;31m  ./ooy-o:`:-\033[1;97myMMMMMMMMMMMMMMMMMMMMMm\033[1;31m-/`/o-yo+:-  
+\033[1;31m   :+///:y-..\033[1;97mmMMMMMMMMMMMMMMMMMMMMMM\033[1;31m..-y:///+:   
+\033[1;31m    ./ss+os-:\033[1;97mmMMMMMMMMMMMMMMMMMMMMMM\033[1;31m::so+so/`    
+\033[1;31m      -/+++/-:\033[1;97mhMMMMMMMMMMMMMMMMMMMmy\033[1;31m-/+///-      
+\033[1;31m       `:+ossoo/\033[1;97myMMMMMMMMMMMMMMMs\033[1;31m//osso/-`       
+\033[1;31m          .:///+\033[1;97msMMMMMMMMMMMMMMM\033[1;31m:o++/:.          
+\033[1;31m             `..\033[1;97mmMMMMMMMMMMMMMMM\033[1;31m:.``             
+\033[1;31m                /\033[1;97moydmNMMMMMNmdyo\033[1;31m.                
 \033[1;93m          ▂▃▄▅▆▇█ \033[1;96mDark_Diamond \033[1;93m█▇▆▅▄▃▂
 \033[1;97m       ░░░░▒▓█ \033[1;32mLOGIN \033[1;97m█▓▒░░░░
 """
