@@ -81,52 +81,29 @@ vuln = '\x1b[32mVuln'
 os.system("clear")
 print  """
                                                                                         
-                                             ``````````                                             
-                                      `.://+oossssssssso+//:-.`                                     
-                      `.`         .-/o+///++++os+sy+so++o+///+o+:.`        .-.`                     
-                  `-/o/.      `-/o+/.`.:+/-`-+:` +s `-+:`./+/-..:+++-`      -+so:.                  
-              ` ./sys:      ./so:.  .+o:`  -o.   +s   `//  `-+o-  `-os+.`     :yyy+.`.`             
-           `-/-/syy+.     .+o/-:/:.:o:`   -+`    +s     //    -o/.-//-:oo-`    .oyyy:.+/.           
-          :ss.+yys/-    .+o-`   `:s++:--.-s.   -/yds/-  `o:.--:/+s/`   `.+o-`  `-:syy:.ss:          
-         /yy--ys/-//  `/s/`     .o:  `..:s+::/oNdsydMNs::/s/-.`  -o:      :o+.  +/-:sy.:yy/``       
-      `.-yyo`+:-/so` .oo.      .s-      -+    :dy+ssMMs   :/      .o:      `/s- `oy+:::`syy.:.      
-     `o`+yy:.:oyy/` -ss-`     .s-       o.       +hmd+`   `s`      .s:     `.os/``/sys+./yy/.s.     
-    `oo +yo:syy+.  -s:-///:-..o/       -o        od:`      //       -s..-:/+/--s/` `/oyy+sy/ ss`    
-    +yo +yoys/:-  -y:    `.:/os+/::-..`+/`````   oy   `````-s`...:://ss/:-`    .s/  /--+ysy-.yy+    
-    yyy`-yo-./s. `s/        .s-``.-:://y+////++/+dmo/++////+s//::-..``s-        :y- .so:-+y.-yys`   
-    yyy-:/.+yy:  +s`        /o        .s     ```:mNo```     +:        /o         +s` -yys:---yyy.   
-  ` yyy/`/syy:  .y:        `s:        -+         +y         -/        .y`        .y:  .syyo.-yys`-  
-  / oyy/+yys-   /y`        `y`        +/        `:/``       -s         s:         oo   ./yys:yy+ o` 
- .s`.sy/yy+`+`  s+         -y`        +:    ```-/+++:.```   .s         o/         :y`  +`-sysys`.y- 
- -y/ -ysy:`+o   s+        `/o`        +-``./o`-ymdddNo:oo-` `o        `/o`        :y`  +s.`oyy. +y/ 
- -yy- +y-`oy/   ssooooooooossooooooooo/::oNMy   `yd:`  :NMd:-/ooooooooosyooooooooosy`  -yy-`o+ :yy: 
- `yyy.`:`oyy.   s+         /o```-:++sydNMMMN.   +dMy.   yMMMNhs+:-.````/o         :y`   syy-..-yyy` 
-  +yyy` +yy+    oo         .y./MMMMMMMMMMMMm   .`/N.:`  yMMMMMMMMMMMNmo.:         /y`   :yyy..yyy+  
-  .yyy+.yyy..   :y`        `y.dMMMMMMMMMMMMm    `dMy    yMMMMMMMMMMMMMM-`         s+   /`oyy/+yys`. 
- -`-yyy+yy/ o.  `y/         :/MMMMMMMMMMMMMN.   .MMN`  `mMMMMMMMMMMMMMMo`        -y-  .y`-yyoyys../ 
- -o`.oyoyy``s+   /y.        `dMMMMMMMMMMMMMM+   +MMM:  :MMMMMMMMMMMMMMMh`       `oo   /y- +ysy/`.s/ 
- `ys-`:sy/ :ys`  `oo`      `.NMMMMMMMMMMMMMMN.  +MMM+ `mMMMMMMMMMMMMMMMN.`      /s.   sy+ -yo-`:yy` 
-  /yy+.`+/ oyy.   `s+`  `-:.oMMMMMMMMMMMMMMMMm- oMMM+`yMMMMMMMMMMMMMMMMM/--.   :s-    yys`:/`:syy:  
-  `/yyy+.- yyy:.`  .s+/+/:-`dMMMMMMMMMMMMMMMMMm-sMMMoyMMMMMMMMMMMMMMMMMM+.:/+//s-  -.-yyy`.:syyy:   
-    :syys/`oyy/ +:  .oy-  `:MMMMMMMMMMMMMMMMMMMNmMMMNMMMMMMMMMMMMMMMMMMMd`` `os- `:o`-yyo.+yyyo.    
-    `./syys/yyo :y+` `/s-``sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN.`.oo. `+y/ +yy/syyo--.    
-     /-`:oyysyy``yyo`  -oo mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM::s:`  oyy.`sysys+-`:/     
-     `++-`./oyy: +yy/   `/`NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+..   /yys :ys+-../o+`     
-      `/ys+-../o--yyy-`. `:MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs `.-.yyy:./-.-/oys/`      
-        -oyyso+:-`/yys`/+.+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh`+/`oyy/`-/osyys/.        
-         `-+syyyso:/sy+`+:+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd /`/ys++syyyys/.          
-            -:+syyysosy+`:-sNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy``/yssyysso:--            
-            `::---://+os+.--/dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmy--/o//:---.-/:`            
-              .+oo+///:-::----+hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh+:::////+oooss+.              
-                .:osyyyyyyyyyys//oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmy/:/oyyyyyyyyys+-`                
-                   `-://+++//:-.--MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:``..--:////-:-                    
-                    `-//:-----/+:/MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/:ys+///:////:`                    
-                       ./osyyyyy-yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo-yyyyyys+/.                       
-                           `.---.mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh ``````                           
-                                -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd`.                                
-                                -sdNMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd`                                 
-                                    `:/+yyhmmNMMMMMMMMNmmdyyo+:.`    
-
+                                                                
+                   `--://///--`                   
+         .:-   `::://:/://:/-//:::.  `:/.         
+      --os.  -//--/. :. -: `: ./--//:  -ss-:`     
+    .s-s/: ./.  ::../:-oyhd::/-.-:  `/- :/o:s.    
+  `-oo:+o`/+`  :-   /  ./hy` :`  ./  `+/.oo:oo:`  
+  o:oo+/ /-`.-/+---::```:/ ``./---//--`.+ /+s+/o  
+  y+:/o.-/    +   `/...-sh-.../`   +    ::.s/:+y` 
+ .soos- o`   `/    /    -:`   /    :.    o .osoo: 
+.o.s+:- o....:/..../`/-:sy+:+`/....:/....o`-/:y.s-
+`y+-:y` o````-/:osyhNM.`+y` mNhso//::````o` s+-+y`
+ /y:y/. +`   `/mMMMMMN  +d` mMMMMMMs`    o -:y+y/`
+`/:ss`o ./    +MMMMMMM: hM.-MMMMMMMm`   :- o.os-/.
+ +o-/:y` ::`-.hMMMMMMMm-dM:dMMMMMMMM:-.-/ `y/::s+ 
+  /yo:y-/`:o`-MMMMMMMMMNNMNMMMMMMMMM+`+/`+.y/ss:  
+  .:/oy//s``/+MMMMMMMMMMMMMMMMMMMMMMy:.`s//y+::.  
+   .o+//.yo..yMMMMMMMMMMMMMMMMMMMMMMd.-+y.//oo.   
+     -oys+s/:sMMMMMMMMMMMMMMMMMMMMMMm.:soss+-     
+      .:////:-+mMMMMMMMMMMMMMMMMMMMh/:////:.      
+        ./ossso//MMMMMMMMMMMMMMMd/-+oso+:.        
+          `-:++o/MMMMMMMMMMMMMMMh+so+/-`          
+             `..sMMMMMMMMMMMMMMMm```              
+                -+shmNNMMMMNNmhy+            
 """
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mWELCOME TO Dark_Diamond\033[1;97m•◈•──────────•◈•")
 
