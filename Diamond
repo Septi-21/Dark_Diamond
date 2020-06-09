@@ -81,29 +81,30 @@ vuln = '\x1b[32mVuln'
 os.system("clear")
 print  """
                                                                                         
-                                                                
-                   `--://///--`                   
-         .:-   `::://:/://:/-//:::.  `:/.         
-      --os.  -//--/. :. -: `: ./--//:  -ss-:`     
-    .s-s/: ./.  ::../:-oyhd::/-.-:  `/- :/o:s.    
-  `-oo:+o`/+`  :-   /  ./hy` :`  ./  `+/.oo:oo:`  
-  o:oo+/ /-`.-/+---::```:/ ``./---//--`.+ /+s+/o  
-  y+:/o.-/    +   `/...-sh-.../`   +    ::.s/:+y` 
- .soos- o`   `/    /    -:`   /    :.    o .osoo: 
-.o.s+:- o....:/..../`/-:sy+:+`/....:/....o`-/:y.s-
-`y+-:y` o````-/:osyhNM.`+y` mNhso//::````o` s+-+y`
- /y:y/. +`   `/mMMMMMN  +d` mMMMMMMs`    o -:y+y/`
-`/:ss`o ./    +MMMMMMM: hM.-MMMMMMMm`   :- o.os-/.
- +o-/:y` ::`-.hMMMMMMMm-dM:dMMMMMMMM:-.-/ `y/::s+ 
-  /yo:y-/`:o`-MMMMMMMMMNNMNMMMMMMMMM+`+/`+.y/ss:  
-  .:/oy//s``/+MMMMMMMMMMMMMMMMMMMMMMy:.`s//y+::.  
-   .o+//.yo..yMMMMMMMMMMMMMMMMMMMMMMd.-+y.//oo.   
-     -oys+s/:sMMMMMMMMMMMMMMMMMMMMMMm.:soss+-     
-      .:////:-+mMMMMMMMMMMMMMMMMMMMh/:////:.      
-        ./ossso//MMMMMMMMMMMMMMMd/-+oso+:.        
-          `-:++o/MMMMMMMMMMMMMMMh+so+/-`          
-             `..sMMMMMMMMMMMMMMMm```              
-                -+shmNNMMMMNNmhy+            
+                                               
+                                                 
+                 ``-::+++++::-.`                 
+        `::.  `::-::-::.o.::-::-::`  .//.        
+     .-/s+` .:---/:`.: `s.`--`-/:--:. `+s/:-     
+   `:s-o/-`/-  .:``./.-hsmy./-.`:.  -/.-/o-s:`   
+  --s++o:.+:.`./`  :`  `so. `:   /.`.:+--o+os:-  
+  s:o+/-`+` `.+----+----h----+----+.`  /.-+++/s  
+ `y+/o+`+.   .:   `:  ``y.`  -`   --   `+`/o/+y. 
+`:+os/.`+    :.   .- ``:o/.. .-   `/    +..:ss//`
+.s-o:o``o::::o:://++sy`:d/.sy/+/:::o::::+.`s:+-y.
+ ss.so `+    :-dmmNMMo .d: /MMNmdho-    +``+y-so`
+`:soy.: +.   `sMMMMMMy `Mo sMMMMMMM.   `+ :-sso:.
+ o:/+:s `+` `.mMMMMMMN:-Mh-NMMMMMMM/.  /. o////o`
+ .oo//y...+:./MMMMMMMMNyMmmMMMMMMMMs.:+.-.y+/so. 
+  ./ooy-o:`:-yMMMMMMMMMMMMMMMMMMMMMm-/`/o-yo+:-  
+   :+///:y-..mMMMMMMMMMMMMMMMMMMMMMM..-y:///+:   
+    ./ss+os-:mMMMMMMMMMMMMMMMMMMMMMM::so+so/`    
+      -/+++/-:hMMMMMMMMMMMMMMMMMMMmy-/+///-      
+       `:+ossoo/yMMMMMMMMMMMMMMMs//osso/-`       
+          .:///+sMMMMMMMMMMMMMMM:o++/:.          
+             `..mMMMMMMMMMMMMMMM:.``             
+                /oydmNMMMMMNmdyo.                
+
 """
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mWELCOME TO Dark_Diamond\033[1;97m•◈•──────────•◈•")
 
