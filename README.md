@@ -1,6 +1,6 @@
 # Dark_Diamond
 
-$ apt update && apt upgrade
+$ pkg update && pkg upgrade
 
 $ pkg install python2
 
