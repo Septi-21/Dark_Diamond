@@ -109,7 +109,7 @@ print  """
 """
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mWELCOME TO Dark_Diamond\033[1;97m•◈•──────────•◈•")
 
-CorrectUsername = "Chairil"
+CorrectUsername = "Termux"
 CorrectPassword = "2106"
 
 
@@ -122,11 +122,11 @@ while (loop == 'true'):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "Pass Salah Minta Ke Admin Lewat WhastApp"
-            os.system('xdg-open https://wa.me/62859152824394')
+            print "Pass Salah Silahkan Download Dulu"
+            os.system('xdg-open https://duit.cc/BhClmAfr')
     else:
-        print "User Id Salah Minta Ke Admin Lewat WhastApp"
-        os.system('xdg-open https://wa.me/62859152824394')
+        print "User Id Salah Silahkan Download Dulu"
+        os.system('xdg-open https://duit.cc/BhClmAfr')
 
 def login():
     os.system('clear')
