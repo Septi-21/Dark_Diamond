@@ -10,7 +10,7 @@ $ git clone https://github.com/Septi-21/Dark_Diamond
 
 $ cd Dark_Diamond
 
-$ bash Bahan.sh
+$ sh Bahan.sh
 
 🚫Dilarang menyalagunakan sc ini
 
