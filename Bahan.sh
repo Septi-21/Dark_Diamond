@@ -1,7 +1,7 @@
 #bin/bash
 clear
 echo
-echo Proses Menginstall Bahan Sabar Ya Mamang....!"
+echo "Proses Menginstall Bahan Sabar Ya Mamang....!"
 echo
 cd $HOME
 pkg update && pkg upgrade
