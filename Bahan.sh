@@ -1,7 +1,7 @@
 #bin/bash
 clear
 echo
-echo "\033[0;32Proses Menginstall Bahan Sabar Ya Mamang....!"
+echo "\033[1;32Proses Menginstall Bahan Sabar Ya Mamang....!"
 echo
 cd $HOME
 pkg update && pkg upgrade
